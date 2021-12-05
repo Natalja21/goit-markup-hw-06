@@ -469,6 +469,7 @@ img {
 .footer-sidebar-item {
 	width: 44px;
 	height: 44px;
+	
 }
 .footer-sidebar-item + .footer-sidebar-item {
 	margin-left: 10px;
@@ -480,6 +481,7 @@ img {
 	display: flex;
 	justify-content: center;
 	align-items: center;
+
 	color: #ffffff;
 	border-radius: 50%;
 	background: rgba(255, 255, 255, 0.1);
@@ -543,7 +545,7 @@ img {
 	letter-spacing: 0.06em;
 	color: #ffffff;
 }
-.footer-social-icon {
+.subscribe-btn-icon {
 	margin-left: 10px;
 	fill: #ffffff;
 }
