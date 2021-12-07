@@ -747,6 +747,7 @@ img {
 }
 .modal-field {
 	position: relative;
+	margin-bottom: 10px;
 }
 .modal-input {
 	display: block;
